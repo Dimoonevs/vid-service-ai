@@ -1,0 +1,9 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.useTabs": true,
+    "prettier.semi": false,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.arrowParens": "avoid",
+}
